@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>ZoneMS.github.io</title>
+        <title>Hello, ZoneMS Website</title>
         <meta name="description" content="ZoneMS personal website" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
