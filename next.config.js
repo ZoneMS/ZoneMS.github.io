@@ -4,7 +4,8 @@ const nextConfig = {
   trailingSlash: true,
   images: {
     unoptimized: true
-  }
+  },
+  basePath: '/ZoneMS.github.io'
 }
 
 module.exports = nextConfig
