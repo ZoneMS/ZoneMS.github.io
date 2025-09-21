@@ -13,7 +13,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://zonems.github.io">ZoneMS.github.io</a>
+          WelWel Welcome to <a href="https://zonems.github.io">ZoneMS.github.io</a>
         </h1>
 
         <p className={styles.description}>
